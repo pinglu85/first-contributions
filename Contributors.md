@@ -13,6 +13,7 @@
 - [Frostbyte]
 - [Pujya Preyans]
 - [Rizkian Akbar Juniansyah](https://github.com/rizkianakbar)
+- [Dany Nghaywe] (https://github.com/DanyNghaywe)
 - [Dev-Ogechi](https://github.com/Dev-Ogechi)
 - [Byeongun Park](https://github.com/bupark82)
 - [Add Byeongun Park](https://github.com/bupark82)
@@ -41,11 +42,13 @@
 - [Neeltyper001](https://github.com/Neeltyper001/)
 - [The Gaming Warlord](github.com/Kyoshi7)
 - [bjp9527](github.com/bjp9527)
+- [Ayush Goel](https://github.com/goelayush89)
 - [Jiseeeh](https://github.com/Jiseeeh)
 - [Matt De Vries](https://github.com/DeVriesMatt)
 - [Hargovind Singh](https://github.com/GovindProMax)
 - [Jason Wilson](https://github.com/WilsonJhub)
 - [Alexander Castillo](https://github.com/Jhuiice)
+- [Connor Rokos](https://github.com/c-rokos)
 - [Awais Ahmad](https://github.com/IMAWAISAHMAD)
 - [Abhijeet Das Gupta](https://github.com/abhijelly)
 - [Anika Roy](https://github.com/Anika-Roy)
@@ -97,6 +100,7 @@
 - [Patrick Lesiewicz](https://github.com/KrsPatrick)
 - [Alex Slutsky](https://github.com/Pa1best)
 - [Devdatt Pandit](https://github.com/Devdatt17)
+- [Kristijan Aleksic] (https://github.com/akristijan/)
 - [Joseph Hardwicke](https://github.com/Jozebel11)
 - [Neel Awsare](https://github.com/awsare)
 - [Gal Malach](https://github.com/GalMalach08)
@@ -1155,6 +1159,8 @@
 - [Daniel Chan](https://github.com/danieljchan)
 - [Cj3 McCollum](https://github.com/534118306)
 - [Karsten Widjanarko](https://github.com/WidjiWidji)
+- [Ferdiansahgg](https://github.com/ferdiansahgg)
 <!-- prettier-ignore-end -->
  [Cj3 vipinsingh](https://github.com/534118306)
  [Erman Celik](https://github.com/celikerman)
+-[YasanLakmalH](https://github.com/YasanLakmalH)
